@@ -1,5 +1,5 @@
 # DeepPaper
-![DeepPaper](https://github.com/qifengzhou/DeepPaper/raw/master/src/common/images/DeepPaper_logo.png width="48" "Logo Title Text 1")
+<img src="https://github.com/qifengzhou/DeepPaper/raw/master/src/common/images/DeepPaper_logo.png" width="48">
 Deep Learning Paper Reading Club  
 
 Sino Data Scientist Association(SDSA)   
