@@ -2,8 +2,7 @@
 <img src="https://github.com/qifengzhou/DeepPaper/raw/master/src/common/images/DeepPaper_logo.png" width="200">
 Deep Learning Paper Reading Club  
 <br><br>
-
-  
+ 
 <img src="https://github.com/qifengzhou/DeepPaper/raw/master/src/common/images/SDSA_logo.png" width="200">
 Sino Data Scientist Association(SDSA) 
 
