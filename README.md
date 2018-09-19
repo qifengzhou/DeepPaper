@@ -1,6 +1,6 @@
 # DeepPaper
 <p align:"center">
-<img src="https://github.com/qifengzhou/DeepPaper/raw/master/src/common/images/DeepPaper_logo.png" width="200"/>
+<img width="200" src="https://github.com/qifengzhou/DeepPaper/raw/master/src/common/images/DeepPaper_logo.png" />
 <p>Deep Learning Paper Reading Club</p>
 </p>
 <br><br>
