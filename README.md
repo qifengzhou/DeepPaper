@@ -1,6 +1,8 @@
 # DeepPaper
-<img align: center src="https://github.com/qifengzhou/DeepPaper/raw/master/src/common/images/DeepPaper_logo.png" width="200">
-Deep Learning Paper Reading Club  
+<p align:center>
+<img src="https://github.com/qifengzhou/DeepPaper/raw/master/src/common/images/DeepPaper_logo.png" width="200">
+Deep Learning Paper Reading Club
+ </p>
 <br><br>
  
 <img align: center src="https://github.com/qifengzhou/DeepPaper/raw/master/src/common/images/SDSA_logo.png" width="200">
