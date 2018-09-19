@@ -1,12 +1,14 @@
-# DeepPaper
-<p align:"center">
-<img width="200" src="https://github.com/qifengzhou/DeepPaper/raw/master/src/common/images/DeepPaper_logo.png" />
-<p>Deep Learning Paper Reading Club</p>
+<h1 align="center">DeepPaper</h1>
+<p align="center">
+<img src="https://github.com/qifengzhou/DeepPaper/raw/master/src/common/images/DeepPaper_logo.png" width="200" >
 </p>
+<h2 align="center">Deep Learning Paper Reading Club</h2>
 <br><br>
- 
+
+<p align="center">
 <img src="https://github.com/qifengzhou/DeepPaper/raw/master/src/common/images/SDSA_logo.png" width="200">
-Sino Data Scientist Association(SDSA) 
+</p>
+<h2 align="center">Sino Data Scientist Association(SDSA)</h2>
 
 * * *  
   
