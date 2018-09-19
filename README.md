@@ -3,13 +3,10 @@
 </p>
 
 <br><br>
-
-<p align="center">
-<img src="https://github.com/qifengzhou/DeepPaper/raw/master/src/common/images/SDSA_logo.png" width="200">
-</p>
 <h2 align="center">Deep Learning Paper Reading Club</h2>
-<h3 align="center">Sino Data Scientist Association(SDSA)</h3>
-
+<p float="right">
+<h3 align="center">Sino Data Scientist Association(SDSA)</h3><img src="https://github.com/qifengzhou/DeepPaper/raw/master/src/common/images/SDSA_logo.png" width="20">
+</p>
 * * *  
   
 ### Neuro-linguistic programming
