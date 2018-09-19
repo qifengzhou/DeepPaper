@@ -1,5 +1,5 @@
 # DeepPaper
-<p align:center>
+<p align:"center">
 <img src="https://github.com/qifengzhou/DeepPaper/raw/master/src/common/images/DeepPaper_logo.png" width="200">
 Deep Learning Paper Reading Club
  </p>
