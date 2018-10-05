@@ -3,7 +3,7 @@
 </p>
 
 <br><br>
-<h2 align="center">Deep Learning Paper Reading Club</h2>
+<h2 align="center">Data Processsing Paper Reading Club</h2>
 <!--
 <img style="float: right;" src="https://github.com/qifengzhou/DeepPaper/raw/master/src/common/images/SDSA_logo.png" width="20">
 -->
