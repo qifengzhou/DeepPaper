@@ -20,3 +20,6 @@
 
 ### Data Engineering
 - :heavy_check_mark: **Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing**, Matei Zaharia, Mosharaf Chowdhury, Tathagata Das, Ankur Dave, Justin Ma,Murphy McCauley, Michael J. Franklin, Scott Shenker, Ion Stoica [[pdf]](https://cs.stanford.edu/~matei/papers/2012/nsdi_spark.pdf) 
+
+### Data processing
+- **Condition monitoring of bearings under medium and low rotational speed**, Carina Freitas, Paulo Morais, Jacques Cuenca, Agusmian Partogi Ompusunggu, Mathieu Sarrazin, Karl Janssens [[pdf]](https://www.ndt.net/events/EWSHM2016/app/content/Paper/42_Freitas_Rev1.pdf)
