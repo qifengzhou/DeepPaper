@@ -24,4 +24,4 @@
 - **MillWheel: Fault-Tolerant Stream Processing at Internet Scale**, Tyler Akidau, Alex Balikov, Kaya Bekiroglu, Slava Chernyak, Josh Haberman, Reuven Lax, Sam McVeety, Daniel Mills, Paul Nordstrom, Sam Whittle [[pdf]](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/41378.pdf)
 
 ### Data Processing
-- **Condition monitoring of bearings under medium and low rotational speed**, Carina Freitas, Paulo Morais, Jacques Cuenca, Agusmian Partogi Ompusunggu, Mathieu Sarrazin, Karl Janssens [[pdf]](https://www.ndt.net/events/EWSHM2016/app/content/Paper/42_Freitas_Rev1.pdf)
+- :heavy_check_mark: **Condition monitoring of bearings under medium and low rotational speed**, Carina Freitas, Paulo Morais, Jacques Cuenca, Agusmian Partogi Ompusunggu, Mathieu Sarrazin, Karl Janssens [[pdf]](https://www.ndt.net/events/EWSHM2016/app/content/Paper/42_Freitas_Rev1.pdf)
