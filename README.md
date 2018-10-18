@@ -27,6 +27,6 @@
 - **Conditional Neural Processes**, Marta Garnelo, Dan Rosenbaum, Chris J. Maddison, Tiago Ramalho, David Saxton, Murray Shanahan, Yee Whye Teh, Danilo J. Rezende, S. M. Ali Eslami [[pdf]](https://arxiv.org/pdf/1807.01613.pdf)
 
 ### Recommendation System
-- **Real-time Personalization using Embeddings for Search Ranking at Airbnb** (2018), Mihajlo Grbovic, Haibin Cheng [[pdf]](http://delivery.acm.org/10.1145/3220000/3219885/p311-grbovic.pdf?ip=46.5.255.184&id=3219885&acc=OPENTOC&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E054E54E275136550&__acm__=1539858837_4147f4ffb15082b7c1c75044e70119d6)
+- **Real-time Personalization using Embeddings for Search Ranking at Airbnb** (2018), Mihajlo Grbovic, Haibin Cheng [[pdf]](http://www.kdd.org/kdd2018/accepted-papers/view/real-time-personalization-using-embeddings-for-search-ranking-at-airbnb)
 
 
