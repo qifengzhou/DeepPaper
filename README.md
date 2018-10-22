@@ -9,15 +9,15 @@
 -->
 <h3 align="center">Sino Data Scientist Association(SDSA)</h3>
 
-* * *  
+* * * 
+
+### Data Bank 
+- **Bigtable: A Distributed Storage System for Structured Data**, Fay Chang, Jeffrey Dean, Sanjay Ghemawat, Wilson C. Hsieh, Deborah A. Wallach Mike Burrows, Tushar Chandra, Andrew Fikes, Robert E. Gruber [[pdf]](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/68a74a85e1662fe02ff3967497f31fda7f32225c.pdf) 
 
 ### Data Engineering
 - :heavy_check_mark: **Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing**, Matei Zaharia, Mosharaf Chowdhury, Tathagata Das, Ankur Dave, Justin Ma,Murphy McCauley, Michael J. Franklin, Scott Shenker, Ion Stoica [[pdf]](https://cs.stanford.edu/~matei/papers/2012/nsdi_spark.pdf) 
 
 - **MillWheel: Fault-Tolerant Stream Processing at Internet Scale**, Tyler Akidau, Alex Balikov, Kaya Bekiroglu, Slava Chernyak, Josh Haberman, Reuven Lax, Sam McVeety, Daniel Mills, Paul Nordstrom, Sam Whittle [[pdf]](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/41378.pdf)
-
-### Data Bank 
-- **Bigtable: A Distributed Storage System for Structured Data**, Fay Chang, Jeffrey Dean, Sanjay Ghemawat, Wilson C. Hsieh, Deborah A. Wallach Mike Burrows, Tushar Chandra, Andrew Fikes, Robert E. Gruber [[pdf]](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/68a74a85e1662fe02ff3967497f31fda7f32225c.pdf) 
 
 ### Data Processing
 - :heavy_check_mark: **Condition monitoring of bearings under medium and low rotational speed**, Carina Freitas, Paulo Morais, Jacques Cuenca, Agusmian Partogi Ompusunggu, Mathieu Sarrazin, Karl Janssens [[pdf]](https://www.ndt.net/events/EWSHM2016/app/content/Paper/42_Freitas_Rev1.pdf)
