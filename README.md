@@ -16,6 +16,8 @@
 
 - **MillWheel: Fault-Tolerant Stream Processing at Internet Scale**, Tyler Akidau, Alex Balikov, Kaya Bekiroglu, Slava Chernyak, Josh Haberman, Reuven Lax, Sam McVeety, Daniel Mills, Paul Nordstrom, Sam Whittle [[pdf]](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/41378.pdf)
 
+- **Dremel: Interactive Analysis of Web-Scale Datasets**, Sergey Melnik, Jing Jing Long, Geoffrey Romer, Shiva Shivakumar, Matt Tolton, Theo Vassilakis, Google, Inc. [[pdf]](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36632.pdf)
+
 ### Data Bank 
 - :heavy_check_mark: **Bigtable: A Distributed Storage System for Structured Data**, Fay Chang, Jeffrey Dean, Sanjay Ghemawat, Wilson C. Hsieh, Deborah A. Wallach Mike Burrows, Tushar Chandra, Andrew Fikes, Robert E. Gruber [[pdf]](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/68a74a85e1662fe02ff3967497f31fda7f32225c.pdf) 
 
