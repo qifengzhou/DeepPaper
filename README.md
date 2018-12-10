@@ -11,7 +11,10 @@
 
 * * * 
 
-### Data Bank 
+### Deep learning
+**Deep Learning for Classical Japanese Literature**, Tarin Clanuwat, Mikel Bober-Irizar, Asanobu Kitamoto, Alex Lamb, Kazuaki Yamamoto, David Ha [[pdf]](https://arxiv.org/pdf/1812.01718.pdf) 
+
+### Database
 - **Bigtable: A Distributed Storage System for Structured Data**, Fay Chang, Jeffrey Dean, Sanjay Ghemawat, Wilson C. Hsieh, Deborah A. Wallach Mike Burrows, Tushar Chandra, Andrew Fikes, Robert E. Gruber [[pdf]](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/68a74a85e1662fe02ff3967497f31fda7f32225c.pdf) 
 
 ### Data Engineering
