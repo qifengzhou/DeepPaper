@@ -9,7 +9,13 @@
 -->
 <h3 align="center">Sino Data Scientist Association(SDSA)</h3>
 
-* * *  
+* * * 
+
+### Deep learning
+**Deep Learning for Classical Japanese Literature**, Tarin Clanuwat, Mikel Bober-Irizar, Asanobu Kitamoto, Alex Lamb, Kazuaki Yamamoto, David Ha [[pdf]](https://arxiv.org/pdf/1812.01718.pdf) 
+
+### Database
+- **Bigtable: A Distributed Storage System for Structured Data**, Fay Chang, Jeffrey Dean, Sanjay Ghemawat, Wilson C. Hsieh, Deborah A. Wallach Mike Burrows, Tushar Chandra, Andrew Fikes, Robert E. Gruber [[pdf]](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/68a74a85e1662fe02ff3967497f31fda7f32225c.pdf) 
 
 ### Data Engineering
 - :heavy_check_mark: **Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing**, Matei Zaharia, Mosharaf Chowdhury, Tathagata Das, Ankur Dave, Justin Ma,Murphy McCauley, Michael J. Franklin, Scott Shenker, Ion Stoica [[pdf]](https://cs.stanford.edu/~matei/papers/2012/nsdi_spark.pdf) 
