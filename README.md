@@ -41,6 +41,9 @@
 - :heavy_check_mark: **Real-time Personalization using Embeddings for Search Ranking at Airbnb** (2018), Mihajlo Grbovic, Haibin Cheng [[pdf]](http://www.kdd.org/kdd2018/accepted-papers/view/real-time-personalization-using-embeddings-for-search-ranking-at-airbnb)
 
 
+
 ### Open Source Project
 [Discussion date: 2019.02.03]
 - :heavy_check_mark: **Attention Is All You Need** (2017), Ashish Vaswani, et al. [[pdf]](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf) github link (https://github.com/Kyubyong/transformer)
+
+
