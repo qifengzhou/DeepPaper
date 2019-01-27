@@ -43,5 +43,4 @@
 
 ### Open Source Project
 [Discussion date: 2019.02.03]
-- :heavy_check_mark: **Attention Is All You Need** (2017), Ashish Vaswani, et al. [[pdf]]
-(https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf) github link (https://github.com/Kyubyong/transformer)
+- :heavy_check_mark: **Attention Is All You Need** (2017), Ashish Vaswani, et al. [[pdf]](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf) github link (https://github.com/Kyubyong/transformer)
