@@ -43,8 +43,15 @@
 
 
 ### Open Source Project
+
+#### Natural Language Processing
 [Discussion date: 2019.02.03]
 - :heavy_check_mark: **Attention Is All You Need** (2017), Ashish Vaswani, et al. [[pdf]](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf) github link (https://github.com/Kyubyong/transformer)<br>
 Google's implementation (https://github.com/tensorflow/tensor2tensor)
+
+#### Computer Vision
+- **Siamese Neural Networks for One-shot Image Recognition** (2015), Gregory Koch, Richard Zemel, Ruslan Salakhutdinov [[PDF]](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)<br>
+PyTorch impelmentation (https://github.com/adambielski/siamese-triplet)<br>
+TensorFlow implementation (https://github.com/torrvision/siamfc-tf)
 
 
