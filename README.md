@@ -54,4 +54,7 @@ Google's implementation (https://github.com/tensorflow/tensor2tensor)
 PyTorch impelmentation (https://github.com/adambielski/siamese-triplet)<br>
 TensorFlow implementation (https://github.com/torrvision/siamfc-tf)
 
+- **You Only Look Once: Unified, Real-Time Object Detection** (2016), Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi [[pdf]](https://pjreddie.com/media/files/papers/yolo_1.pdf)<br> 
+TensorFlow implementaion (https://github.com/nilboy/tensorflow-yolo)
+
 
