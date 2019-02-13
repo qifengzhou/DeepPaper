@@ -50,7 +50,7 @@
 Google's implementation (https://github.com/tensorflow/tensor2tensor)
 
 #### Computer Vision
-- **Siamese Neural Networks for One-shot Image Recognition** (2015), Gregory Koch, Richard Zemel, Ruslan Salakhutdinov [[PDF]](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)<br>
+- **Siamese Neural Networks for One-shot Image Recognition** (2015), Gregory Koch, Richard Zemel, Ruslan Salakhutdinov [[pdf]](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)<br>
 PyTorch impelmentation (https://github.com/adambielski/siamese-triplet)<br>
 TensorFlow implementation (https://github.com/torrvision/siamfc-tf)
 
