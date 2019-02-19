@@ -40,7 +40,7 @@
 ### Recommendation System
 - :heavy_check_mark: **Real-time Personalization using Embeddings for Search Ranking at Airbnb** (2018), Mihajlo Grbovic, Haibin Cheng [[pdf]](http://www.kdd.org/kdd2018/accepted-papers/view/real-time-personalization-using-embeddings-for-search-ranking-at-airbnb)
 
-
+- **xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems** (2018) Jianxun Lian, Xiaohuan Zhou, Fuzheng Zhang, Zhongxia Chen, Xing Xie, Guangzhong Sun [[pdf]](https://arxiv.org/pdf/1803.05170.pdf)
 
 ### Open Source Project
 
@@ -56,5 +56,6 @@ TensorFlow implementation (https://github.com/torrvision/siamfc-tf)
 
 - **You Only Look Once: Unified, Real-Time Object Detection** (2016), Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi [[pdf]](https://pjreddie.com/media/files/papers/yolo_1.pdf)<br> 
 TensorFlow implementaion (https://github.com/nilboy/tensorflow-yolo)
+
 
 
