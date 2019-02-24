@@ -56,6 +56,11 @@ TensorFlow implementation (https://github.com/torrvision/siamfc-tf)
 
 - **You Only Look Once: Unified, Real-Time Object Detection** (2016), Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi [[pdf]](https://pjreddie.com/media/files/papers/yolo_1.pdf)<br> 
 TensorFlow implementaion (https://github.com/nilboy/tensorflow-yolo)
+YOLO v2 **YOLO9000: Better, Faster, Stronger** [[pdf]](https://arxiv.org/pdf/1612.08242.pdf)<br>
+PyTorch implementation (https://github.com/ruiminshen/yolo2-pytorch)<br>
+YOLO v3 **YOLOv3: An Incremental Improvement** [[pdf]](https://pjreddie.com/media/files/papers/YOLOv3.pdf)<br>
+PyTorch implementation (https://github.com/ayooshkathuria/pytorch-yolo-v3)
+
 
 
 
