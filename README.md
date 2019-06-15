@@ -53,6 +53,8 @@
 - :heavy_check_mark: **Attention Is All You Need** (2017), Ashish Vaswani, et al. [[pdf]](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf) github link (https://github.com/Kyubyong/transformer)<br>
 Google's implementation (https://github.com/tensorflow/tensor2tensor)
 
+- **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding** (2018), Jacob Devlin et al. [[pdf]](https://arxiv.org/pdf/1810.04805.pdf)
+
 #### Computer Vision
 - **Siamese Neural Networks for One-shot Image Recognition** (2015), Gregory Koch, Richard Zemel, Ruslan Salakhutdinov [[pdf]](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)<br>
 PyTorch impelmentation (https://github.com/adambielski/siamese-triplet)<br>
