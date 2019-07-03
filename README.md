@@ -46,6 +46,9 @@
 
 - **xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems** (2018) Jianxun Lian, Xiaohuan Zhou, Fuzheng Zhang, Zhongxia Chen, Xing Xie, Guangzhong Sun [[pdf]](https://arxiv.org/pdf/1803.05170.pdf)
 
+- **Deep Learning Recommendation Model for Personalization and Recommendation Systems** (2019) Maxim Naumov, Dheevatsa Mudigere, Hao-Jun Michael Shi et al. [[pdf]](https://arxiv.org/pdf/1906.00091.pdf)<br>
+PyTorch and Caffee implementation (https://github.com/facebookresearch/dlrm)
+
 ### Open Source Project
 
 #### Natural Language Processing
