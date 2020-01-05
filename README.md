@@ -50,11 +50,11 @@
 PyTorch and Caffee implementation (https://github.com/facebookresearch/dlrm)
 
 ### Natural Language Processing
-- **Distributed Representations of Words and Phrases and their Compositionality** (2013) Tomas Mikolov et al. [[pdf]] (https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
+- **Distributed Representations of Words and Phrases and their Compositionality** (2013) Tomas Mikolov et al. [[pdf]](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
 
-[Discussion date: 2019.02.03]
 - :heavy_check_mark: **Attention Is All You Need** (2017), Ashish Vaswani, et al. [[pdf]](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf) github link (https://github.com/Kyubyong/transformer)<br>
 Google's implementation (https://github.com/tensorflow/tensor2tensor)
+[Discussion date: 2019.02.03]
 
 - **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding** (2018), Jacob Devlin et al. [[pdf]](https://arxiv.org/pdf/1810.04805.pdf)
 
