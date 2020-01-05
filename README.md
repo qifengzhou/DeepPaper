@@ -49,16 +49,16 @@
 - **Deep Learning Recommendation Model for Personalization and Recommendation Systems** (2019) Maxim Naumov, Dheevatsa Mudigere, Hao-Jun Michael Shi et al. [[pdf]](https://arxiv.org/pdf/1906.00091.pdf)<br>
 PyTorch and Caffee implementation (https://github.com/facebookresearch/dlrm)
 
-### Open Source Project
+### Natural Language Processing
+- **Distributed Representations of Words and Phrases and their Compositionality** (2013) Tomas Mikolov et al. [[pdf]] (https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
 
-#### Natural Language Processing
 [Discussion date: 2019.02.03]
 - :heavy_check_mark: **Attention Is All You Need** (2017), Ashish Vaswani, et al. [[pdf]](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf) github link (https://github.com/Kyubyong/transformer)<br>
 Google's implementation (https://github.com/tensorflow/tensor2tensor)
 
 - **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding** (2018), Jacob Devlin et al. [[pdf]](https://arxiv.org/pdf/1810.04805.pdf)
 
-#### Computer Vision
+### Computer Vision
 - **Siamese Neural Networks for One-shot Image Recognition** (2015), Gregory Koch, Richard Zemel, Ruslan Salakhutdinov [[pdf]](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)<br>
 PyTorch impelmentation (https://github.com/adambielski/siamese-triplet)<br>
 TensorFlow implementation (https://github.com/torrvision/siamfc-tf)
